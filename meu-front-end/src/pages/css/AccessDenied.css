@@ -1,0 +1,15 @@
+.access-denied {
+  text-align: center;
+  padding: 50px;
+  color: #336636;
+}
+
+.back-link {
+  margin-top: 20px;
+  display: inline-block;
+  text-decoration: none;
+  color: #336636;
+  background-color: #c3cd6a;
+  padding: 10px 20px;
+  border-radius: 5px;
+}

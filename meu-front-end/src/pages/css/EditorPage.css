@@ -1,0 +1,30 @@
+/* src/css/EditorPage.css */
+.editor-page {
+  background-color: #F1EDDF;
+  height: 100vh;
+  padding: 30px;
+  color: #336636;
+}
+
+.editor-page h2 {
+  color: #A1BA30;
+}
+
+.editor-actions {
+  margin-top: 20px;
+}
+
+.editor-actions button {
+  margin: 10px;
+  padding: 15px 30px;
+  background-color: #336636;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background 0.3s;
+}
+
+.editor-actions button:hover {
+  background-color: #A1BA30;
+}

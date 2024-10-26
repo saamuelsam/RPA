@@ -1,0 +1,152 @@
+2024-09-12 15:29:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 15:29:01 [INFO]: Nenhum pedido encontrado ou erro na resposta da API.
+2024-09-12 15:31:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 15:31:00 [INFO]: Nenhum pedido encontrado ou erro na resposta da API.
+2024-09-12 15:32:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 15:32:01 [INFO]: Nenhum pedido encontrado ou erro na resposta da API.
+2024-09-12 15:33:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 15:33:01 [INFO]: Nenhum pedido encontrado ou erro na resposta da API.
+2024-09-12 15:34:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 15:34:00 [INFO]: Nenhum pedido encontrado ou erro na resposta da API.
+2024-09-12 15:35:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 15:35:02 [INFO]: Erro na sincronização dos pedidos: ENOENT: no such file or directory, open 'C:\Users\samue\OneDrive\Área de Trabalho\RPA\config\credentials.json'
+2024-09-12 15:36:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 15:36:02 [INFO]: Erro na sincronização dos pedidos: ENOENT: no such file or directory, open 'C:\Users\samue\OneDrive\Área de Trabalho\RPA\config\credentials.json'
+2024-09-12 15:37:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 15:37:01 [INFO]: Erro na sincronização dos pedidos: private_key and client_email are required.
+2024-09-12 15:38:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 15:38:01 [INFO]: Erro na sincronização dos pedidos: private_key and client_email are required.
+2024-09-12 15:39:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 15:39:02 [INFO]: Erro na sincronização dos pedidos: private_key and client_email are required.
+2024-09-12 15:40:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 15:40:02 [INFO]: Erro na sincronização dos pedidos: private_key and client_email are required.
+2024-09-12 15:41:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 15:41:02 [INFO]: Erro na sincronização dos pedidos: error:1E08010C:DECODER routines::unsupported
+2024-09-12 15:42:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 15:42:01 [INFO]: Erro na sincronização dos pedidos: error:1E08010C:DECODER routines::unsupported
+2024-09-12 15:43:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 15:43:02 [INFO]: Erro na sincronização dos pedidos: error:1E08010C:DECODER routines::unsupported
+2024-09-12 15:44:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 15:44:02 [INFO]: Erro na sincronização dos pedidos: error:1E08010C:DECODER routines::unsupported
+2024-09-12 15:45:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 15:45:02 [INFO]: Erro na sincronização dos pedidos: error:1E08010C:DECODER routines::unsupported
+2024-09-12 15:46:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 15:46:02 [INFO]: Erro na sincronização dos pedidos: error:1E08010C:DECODER routines::unsupported
+2024-09-12 15:47:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 15:47:03 [INFO]: Erro na sincronização dos pedidos: error:1E08010C:DECODER routines::unsupported
+2024-09-12 15:48:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 15:48:01 [INFO]: Erro na sincronização dos pedidos: error:1E08010C:DECODER routines::unsupported
+2024-09-12 17:03:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:03:05 [INFO]: Erro na sincronização dos pedidos: error:1E08010C:DECODER routines::unsupported
+2024-09-12 17:04:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:04:02 [INFO]: Erro na sincronização dos pedidos: error:1E08010C:DECODER routines::unsupported
+2024-09-12 17:05:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:05:02 [INFO]: Erro na sincronização dos pedidos: error:1E08010C:DECODER routines::unsupported
+2024-09-12 17:06:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:06:03 [INFO]: Erro na sincronização dos pedidos: error:1E08010C:DECODER routines::unsupported
+2024-09-12 17:07:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:07:02 [INFO]: Erro na sincronização dos pedidos: error:1E08010C:DECODER routines::unsupported
+2024-09-12 17:08:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:08:02 [INFO]: Erro na sincronização dos pedidos: error:1E08010C:DECODER routines::unsupported
+2024-09-12 17:09:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:09:02 [INFO]: Erro na sincronização dos pedidos: error:1E08010C:DECODER routines::unsupported
+2024-09-12 17:10:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:10:02 [INFO]: Erro na sincronização dos pedidos: error:1E08010C:DECODER routines::unsupported
+2024-09-12 17:11:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:11:03 [INFO]: Erro na sincronização dos pedidos: Google Sheets API has not been used in project 110241977539 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/sheets.googleapis.com/overview?project=110241977539 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.
+2024-09-12 17:13:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:13:03 [INFO]: Erro na sincronização dos pedidos: Google Sheets API has not been used in project 110241977539 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/sheets.googleapis.com/overview?project=110241977539 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.
+2024-09-12 17:14:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:14:03 [INFO]: Erro na sincronização dos pedidos: Google Sheets API has not been used in project 110241977539 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/sheets.googleapis.com/overview?project=110241977539 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.
+2024-09-12 17:15:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:15:02 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:16:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:16:02 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:17:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:17:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:18:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:18:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:19:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:19:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:20:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:21:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:21:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:22:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:22:02 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:23:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:23:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:23:08 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:24:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:24:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:25:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:25:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:26:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:26:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:27:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:27:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:28:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:28:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:29:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:29:02 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:30:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:30:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:34:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:34:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:35:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:35:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:36:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:36:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:37:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:37:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:38:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:38:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:39:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:39:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:40:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:40:02 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:41:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:41:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:42:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:42:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:43:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:43:02 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:44:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:44:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:45:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:45:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:46:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:46:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:47:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:47:02 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:48:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:48:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:49:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:49:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:50:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:50:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:51:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:51:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:52:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:52:02 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:53:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:53:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:54:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:54:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:55:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:55:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:56:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:56:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:57:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:57:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:58:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:58:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 17:59:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 17:59:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 18:00:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 18:00:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 18:01:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 18:01:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 18:02:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 18:02:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.
+2024-09-12 18:03:00 [INFO]: Iniciando sincronização de pedidos.
+2024-09-12 18:03:03 [INFO]: Erro na sincronização dos pedidos: Requested entity was not found.

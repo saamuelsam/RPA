@@ -1,0 +1,15 @@
+version: '3'
+services:
+  rpa:
+    build: .
+    container_name: rpa-tiny-erp
+    environment:
+      - NODE_ENV=production
+      - TINY_ERP_API_KEY=${TINY_ERP_API_KEY}
+      - GOOGLE_SHEETS_CREDENTIALS_PATH=${GOOGLE_SHEETS_CREDENTIALS_PATH}
+      - GMAIL_USER=${GMAIL_USER}
+      - GMAIL_PASS=${GMAIL_PASS}
+      - SPREADSHEET_ID=${SPREADSHEET_ID}
+    volumes:
+      - .:/usr/src/app
+    restart: always
